@@ -8,4 +8,4 @@
 ## 5.Gradient Boosting
 
 ### Data Visualization link
-### [1](https://www.kaggle.com/code/essammohamed4320/human-activity-recognition-scientific-prespective)
+### [Human Activity recognition data visualization](https://www.kaggle.com/code/essammohamed4320/human-activity-recognition-scientific-prespective)
